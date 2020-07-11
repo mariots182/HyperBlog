@@ -2,3 +2,6 @@ Mario curso platzi
 
 
 Curso de Git y Github
+
+
+Hablando de historia.
