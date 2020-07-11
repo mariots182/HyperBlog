@@ -11,3 +11,8 @@ body {
   background-color: white;
   margin: 4em;
 }
+
+.cabecera {
+  background-color: blue;
+  text-align: left;
+}
