@@ -7,7 +7,7 @@ body {
 .container {
   border: none;
   border-radius: 10px;
-  color: deeppink;
+  color: black;
   background-color: white;
   margin: 4em;
 }
@@ -15,4 +15,9 @@ body {
 .cabecera {
   background-color: blue;
   text-align: left;
+  color: white;
+}
+
+.cabecera span {
+  margin-left: 10px;
 }
