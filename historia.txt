@@ -4,12 +4,4 @@ Mario curso platzi
 Curso de Git y Github
 
 
-Hablando de historia.
-
-
-Cambios nuevos en el archivo para un tercer commit
-
-
-Cambios nuevos a partir de crear el archivo blogpost
-
-Mañana va a llover
+Mañana me enfocaré en ser mejor
