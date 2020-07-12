@@ -7,9 +7,11 @@ body {
   height: 300px;
   border: none;
   border-radius: 10px;
+  height: 200px;
   color: black;
   background-color: white;
   margin: 4em;
+  position: relative;
 }
 
 .cabecera {
@@ -34,4 +36,25 @@ body {
 .icono {
   height: 1.7em;
   width: 1.7em;
+}
+
+.post {
+padding:5px;
+
+}
+
+.pie{
+position: absolute;
+padding: 0px;
+background: gray;
+right: 0px;
+bottom: 0px;
+}
+
+
+.pie p{
+padding: 0x;
+margin:0px;
+color: white;
+font-size:.8em;
 }
