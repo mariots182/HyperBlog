@@ -1,10 +1,10 @@
 body {
   text-align: center;
   font-family: "Arial";
-  background-color: #fafafa;
+  background: rgb(34, 7, 91);
 }
-
 .container {
+  height: 300px;
   border: none;
   border-radius: 10px;
   color: black;
@@ -13,11 +13,25 @@ body {
 }
 
 .cabecera {
-  background-color: blue;
+  background-color: rgb(85, 85, 226);
   text-align: left;
   color: white;
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  border-radius: 5px;
+}
+
+.cabecera h1 {
+  font-size: 1.4em;
 }
 
 .cabecera span {
   margin-left: 10px;
+  font-size: 0.8em;
+}
+
+.icono {
+  height: 1.7em;
+  width: 1.7em;
 }
