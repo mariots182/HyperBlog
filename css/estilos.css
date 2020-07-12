@@ -4,10 +4,9 @@ body {
   background: rgb(34, 7, 91);
 }
 .container {
-  height: 300px;
+  padding:2em;
   border: none;
   border-radius: 10px;
-  height: 200px;
   color: black;
   background-color: white;
   margin: 4em;
@@ -22,6 +21,7 @@ body {
   align-items: center;
   padding: 5px;
   border-radius: 5px;
+  box-shadow: -2px -2px 1em 1px gray;
 }
 
 .cabecera h1 {
@@ -40,7 +40,7 @@ body {
 
 .post {
 padding:5px;
-
+text-align: justify;
 }
 
 .pie{
