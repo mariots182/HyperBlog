@@ -1,11 +1,13 @@
 Mario curso platzi
 
-
 Curso de Git y Github
-
 
 Mañana me enfocaré en ser mejor
 
 cambio la historia desde mi raspberry
 
+<<<<<<< HEAD
 Agrego historia en master.
+=======
+Realizando experimento de rebase en Git.
+>>>>>>> 44eeb2d... Agrego texto a la historia
